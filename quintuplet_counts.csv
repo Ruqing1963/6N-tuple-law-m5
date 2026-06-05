@@ -1,0 +1,11 @@
+shell,quint_count,centres,rho_quint,source
+S2,1,15,6.666667e-02,recomputed
+S3,1,150,6.666667e-03,recomputed
+S4,1,1500,6.666667e-04,recomputed
+S5,6,15000,4.000000e-04,recomputed
+S6,24,150000,1.600000e-04,recomputed
+S7,126,1500000,8.400000e-05,recomputed
+S8,537,15000000,3.580000e-05,recomputed
+S9,2936,150000000,1.957333e-05,recomputed
+S10,16570,1500000000,1.104667e-05,recomputed from scratch
+S11,102254,15000000000,6.816933e-06,recomputed from scratch (twin same pass: 196963369)
